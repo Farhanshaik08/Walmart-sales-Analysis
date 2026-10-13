@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analysing weekly sales across 45 Walmart stores and 81 departments (2010-2012), built to surface store- and department-level trends for inventory and staffing decisions.
 
-[Dashboard overview](WalmartDashboard.png)
+[Dashboard overview](Walmart%20Dashboard.png)
 
 ## Business question
 How do holidays, store type and department affect weekly sales, and where should inventory and staffing be focused?
