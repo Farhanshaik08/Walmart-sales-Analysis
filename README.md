@@ -25,7 +25,7 @@ How do holidays, store type and department affect weekly sales, and where should
 
 - Merged sales, store and economic-indicator tables into one clean file
 - Cleaned and imputed missing values in the promotional markdown fields (50-64% incomplete across 5 columns)
-- [ADD ONE LINE ON WHAT YOU DID IN SQL / PYTHON / EXCEL, OR DELETE THIS LINE]
+
 
 ## Dashboard contents
 
